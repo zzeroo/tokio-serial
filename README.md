@@ -24,3 +24,4 @@ tokio-serial = "3.3.0"
 
 [tokio.rs](https://tokio.rs)
 [serialport-rs](https://gitlab.com/susurrus/serialport-rs)
+
